@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Saad Maqsood!
 
 ## 🌟 About Me
-I'm currently a **Research Intern** at the Micro-Electronics Research Lab and pursuing my undergraduate degree in **Software Engineering**. With a passion for hardware-software co-design, I enjoy working on projects that span from **micro-electronics** project of **azm single cycle** to **full-stack development** of **Burq-Suite** which is verification suite.
+I'm currently pursuing my undergraduate degree in **Software Engineering**. With a passion for hardware-software co-design, I enjoy working on projects that span from **micro-electronics** project of **azm single cycle** to **full-stack development** of **Burq-Suite** which is verification suite.
 
 ---
 
@@ -24,7 +24,6 @@ I'm currently a **Research Intern** at the Micro-Electronics Research Lab and pu
 ## ⚡ Projects and Experience
 I’ve had the opportunity to work on cutting-edge projects involving **Micro-Electronics**, **Hardware Description Languages (HDLs)**, and **Full-stack web development**.
 
-- 🔭 **Research Intern** @ Micro-Electronics Research Lab
 - ⚙️ **Languages**: Chisel, Python, Java, JavaScript, Scala, RISCV
 - 🌱 Currently deepening my knowledge in **FPGA Design** and **Verification** of Riscv design.
 

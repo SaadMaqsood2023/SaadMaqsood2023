@@ -7,7 +7,7 @@ I’m currently working as a **Research Intern at MERL (Micro-Electronics Resear
 Alongside this, I’m pursuing my **Final Year Project (FYP)** focused on **mitigating hallucinations in Large Language Models (LLMs)** using **PyTorch**.  
 Recently, I also started working on a startup project as an **AI Expert at [TheOvalLabs](https://theovallabs.github.io/)**, where I focus on improving model performance, fine-tuning large language models, and optimizing inference pipelines for better real-world responses.  
 
-Previously, I worked as a 
+Previously, I worked as a trainee where I completed my learning journey and now I'm an AI intern.
 
 ---
 
